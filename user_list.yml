@@ -1,0 +1,13 @@
+users:
+
+- name: hmdan
+  job: developer
+  expire_date: 30
+  
+- name: hasan
+  job: manager
+  expire_date: 30
+  
+- name: hosny
+  job: developer
+  expire_date: 30
